@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: HUB XC410: Spark! DS4G Practicum
+title: 'HUB XC410: Spark! DS4G Practicum'
 tagline: A Jekyll template for course websites
 description: DS4G Practicum enables students to tackle real world data challenges related to a more equitable and just society.
 author: Kevin Lin
