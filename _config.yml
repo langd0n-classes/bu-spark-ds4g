@@ -17,8 +17,10 @@ title: 'HUB XC410: Spark! DS4G Practicum'
 tagline: A Jekyll template for course websites
 description: DS4G Practicum enables students to tackle real world data challenges related to a more equitable and just society.
 author: Langdon White
-baseurl: '/bu-spark-ds4g' # the subpath of your site, e.g. /blog
-url: 'https://langdon.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/' # the subpath of your site, e.g. /blog
+url: 'https://langdon.github.io/bu-spark-ds4g' # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: '/bu-spark-ds4g' # the subpath of your site, e.g. /blog
+#url: 'https://langdon.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 #baseurl: '/sp23' # the subpath of your site, e.g. /blog
 #url: 'https://langdon.github.io/bu-spark-ds4g' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
